@@ -1,0 +1,3 @@
+[submodule "MailKit"]
+	path = MailKit
+	url = git://github.com/jstedfast/MailKit.git
