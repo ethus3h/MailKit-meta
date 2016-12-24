@@ -1,3 +1,6 @@
 [submodule "MailKit"]
 	path = MailKit
 	url = git://github.com/jstedfast/MailKit.git
+[submodule "MimeKit"]
+	path = MimeKit
+	url = git://github.com/jstedfast/MimeKit.git
